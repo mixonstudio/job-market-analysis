@@ -1,9 +1,10 @@
 Job Market Analysis: Data-Driven Career Strategy
 A comprehensive analysis of job market trends to inform job search timing and location decisions.
+
 🎯 Project Overview
 As an unemployed professional considering relocation, I used data analysis to answer: Where and when should I focus my job search?
-Key Questions Addressed:
 
+Key Questions Addressed:
 Is the "September surge" in hiring real?
 Which cities offer the best opportunities for my target roles?
 How should seasonal patterns influence job search timing?
@@ -86,7 +87,7 @@ job-market-analysis/
 🚀 How to Run This Analysis
 
 Clone the repository
-bashgit clone https://github.com/yourusername/job-market-analysis.git
+bashgit clone https://github.com/mixonstudio/job-market-analysis.git
 
 Open in RStudio
 
