@@ -78,23 +78,25 @@ As an unemployed professional considering relocation, I used data analysis to an
 
 
 ### 📁 Repository Structure
-job-market-analysis/. 
- data/. 
-      raw/                                  # Original datasets. 
-      processed/                            # Cleaned, analyzed data. 
-  scripts/. 
-      01_web_scraping_starter.R             # Initial data collection approach. 
-      02_basic_analysis.R                   # Core trend analysis. 
-      03_september_timing_analysis.R        # Seasonal timing deep dive. 
-      04_detailed_ranking_analysis.R        # Comprehensive city/job comparison. 
-      05_final_summary.R                    # Executive summary and recommendations. 
-  outputs/. 
-      figures/                              # All visualizations. 
-  README.md                                 # This file. 
-
+```
+job-market-analysis/
+├── data/
+│   ├── raw/                    # Original datasets
+│   └── processed/              # Cleaned, analyzed data
+├── scripts/
+│   ├── 01_web_scraping_starter.R       # Initial data collection approach
+│   ├── 02_basic_analysis.R             # Core trend analysis
+│   ├── 03_september_timing_analysis.R  # Seasonal timing deep dive
+│   ├── 04_detailed_ranking_analysis.R  # Comprehensive city/job comparison
+│   └── 05_final_summary.R              # Executive summary and recommendations
+├── outputs/
+│   └── figures/               # All visualizations
+└── README.md                  # This file
+```
 
 ### 🚀 How to Run This Analysis
 1. Clone the repository
+
 bashgit clone https://github.com/mixonstudio/job-market-analysis.git
 2. Open in RStudio
 3. Open job-market-analysis.Rproj
