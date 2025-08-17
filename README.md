@@ -96,7 +96,6 @@ job-market-analysis/
 
 ### 🚀 How to Run This Analysis
 1. Clone the repository
-
 bashgit clone https://github.com/mixonstudio/job-market-analysis.git
 2. Open in RStudio
 3. Open job-market-analysis.Rproj
