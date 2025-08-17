@@ -41,10 +41,10 @@ As an unemployed professional considering relocation, I used data analysis to an
 - Cities Analyzed: NYC, Boston, Philadelphia, Chicago, San Francisco, Seattle, Portland, Los Angeles
 
 #### Tools Used
-- R for data analysis and visualization
-- ggplot2 for data visualization
-- dplyr for data manipulation
-- Statistical analysis for seasonal trend testing
+- **R** for data analysis and visualization
+- **ggplot2** for data visualization
+- **dplyr** for data manipulation
+- **Statistical analysis** for seasonal trend testing
 
 ---
 ### 📈 Sample Visualizations
@@ -79,17 +79,29 @@ As an unemployed professional considering relocation, I used data analysis to an
 
 ### 📁 Repository Structure
 job-market-analysis/
-  data/
+
+ data/
+
       raw/                                  # Original datasets
+
       processed/                            # Cleaned, analyzed data
+
   scripts/
+
       01_web_scraping_starter.R             # Initial data collection approach
+
       02_basic_analysis.R                   # Core trend analysis
+
       03_september_timing_analysis.R        # Seasonal timing deep dive
+
       04_detailed_ranking_analysis.R        # Comprehensive city/job comparison
+
       05_final_summary.R                    # Executive summary and recommendations
+
   outputs/
+
       figures/                              # All visualizations
+
   README.md                                 # This file
 
 
@@ -119,7 +131,9 @@ rinstall.packages(c("dplyr", "ggplot2", "readr", "lubridate", "tidyr"))
 
 #### 📧 Contact
 Email: sarah.m.mixon@gmail.com
+
 LinkedIn: linkedin.com/in/sarah-mixon
+
 Portfolio: tinyfol.io/nexttinything
 
 >This project demonstrates data analysis capabilities through a real-world problem I was facing. The work showcases skills in R programming, statistical analysis, and translating personal decisions into analytical frameworks.
