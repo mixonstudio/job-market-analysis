@@ -50,12 +50,12 @@ As an unemployed professional considering relocation, I used data analysis to an
 ### 📈 Sample Visualizations
 
 ***Monthly Job Posting Trends***
+
 *Clear September spikes visible across the dataset*
 ![Monthly Trends](./outputs/figures/monthly_job_trends.png)
-
 ---
-
 ***NYC Data Analyst Timing Analysis***
+
 *Optimal timing analysis for top target role*
 ![NYC Timing](./outputs/figures/nyc_data_analyst_timing.png)
 ---
@@ -78,31 +78,19 @@ As an unemployed professional considering relocation, I used data analysis to an
 
 
 ### 📁 Repository Structure
-job-market-analysis/
-
- data/
-
-      raw/                                  # Original datasets
-
-      processed/                            # Cleaned, analyzed data
-
-  scripts/
-
-      01_web_scraping_starter.R             # Initial data collection approach
-
-      02_basic_analysis.R                   # Core trend analysis
-
-      03_september_timing_analysis.R        # Seasonal timing deep dive
-
-      04_detailed_ranking_analysis.R        # Comprehensive city/job comparison
-
-      05_final_summary.R                    # Executive summary and recommendations
-
-  outputs/
-
-      figures/                              # All visualizations
-
-  README.md                                 # This file
+job-market-analysis/. 
+ data/. 
+      raw/                                  # Original datasets. 
+      processed/                            # Cleaned, analyzed data. 
+  scripts/. 
+      01_web_scraping_starter.R             # Initial data collection approach. 
+      02_basic_analysis.R                   # Core trend analysis. 
+      03_september_timing_analysis.R        # Seasonal timing deep dive. 
+      04_detailed_ranking_analysis.R        # Comprehensive city/job comparison. 
+      05_final_summary.R                    # Executive summary and recommendations. 
+  outputs/. 
+      figures/                              # All visualizations. 
+  README.md                                 # This file. 
 
 
 ### 🚀 How to Run This Analysis
@@ -130,11 +118,7 @@ rinstall.packages(c("dplyr", "ggplot2", "readr", "lubridate", "tidyr"))
 
 
 #### 📧 Contact
-Email: sarah.m.mixon@gmail.com
-
-LinkedIn: linkedin.com/in/sarah-mixon
-
-Portfolio: tinyfol.io/nexttinything
+sarah.m.mixon@gmail.com | linkedin.com/in/sarah-mixon | tinyfol.io/nexttinything
 
 >This project demonstrates data analysis capabilities through a real-world problem I was facing. The work showcases skills in R programming, statistical analysis, and translating personal decisions into analytical frameworks.
 
