@@ -57,7 +57,6 @@ As an unemployed professional considering relocation, I used data analysis to an
 *Optimal timing analysis for top target role*
 
 
-
 ###🎯 Strategic Recommendations
 >Primary Strategy
 - Focus: NYC Data Analyst positions
@@ -128,3 +127,4 @@ LinkedIn: linkedin.com/in/sarah-mixon
 Portfolio: tinyfol.io/nexttinything
 
 >This project demonstrates data analysis capabilities through a real-world problem I was facing. The work showcases skills in R programming, statistical analysis, and translating personal decisions into analytical frameworks.
+
